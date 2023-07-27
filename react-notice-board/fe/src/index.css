@@ -1,0 +1,26 @@
+.span-holder {
+  display :flex;
+  align-items : center;
+}
+
+.span-contents {
+  display :flex;
+  align-items : center;
+  padding-left : 15px;
+}
+
+.logbox{
+  background-color: #3b414e;
+  position: fixed;
+  margin: 0px;
+  word-wrap: break-word;
+  width: 100%;
+  height: 30%;
+  bottom: 0px;
+  font-size: 15px;
+  text-align: start;
+}
+.logbox p{
+  padding-left: 20px;
+  padding-right: 20px;
+}
